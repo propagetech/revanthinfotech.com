@@ -51,84 +51,84 @@ Files and context:
     }
   },
   {
-    "path": "blog_-find-out-why-great-india-sale-for-diwali-2017-is-the-golden-opportunity-for-all-the-sellers--.html",
-    "context": {
-      "title": "Find out Why Great India sale for Diwali 2017 is the Golden Opportunity for all the Sellers ?",
-      "first_heading": "Find out Why Great India sale for Diwali 2017 is the Golden Opportunity for all the Sellers ?"
-    }
-  },
-  {
-    "path": "blog_4-easy-step-by-step-guide-on-how-to-get-started-with-amazon-for-beginners--what-are-the-required--documents-which-are-needed-to-start-selling-on-amazon-.html",
+    "path": "blog-4-easy-step-by-step-guide-on-how-to-get-started-with-amazon-for-beginners-what-are-the-required-documents-which-are-needed-to-start-selling-on-amazon.html",
     "context": {
       "title": "4 easy step by step guide on How to get started with Amazon for beginners? What are the required documents which are needed to start selling on Amazon?",
       "first_heading": "4 easy step by step guide on How to get started with Amazon for beginners? What are the required documents which are needed to start selling on Amazon?"
     }
   },
   {
-    "path": "blog_5-reason-why-you-should-start-selling-on-amazon-today-.html",
+    "path": "blog-5-reason-why-you-should-start-selling-on-amazon-today.html",
     "context": {
       "title": "5 Reason Why you Should Start Selling on Amazon Today?",
       "first_heading": "5 Reason Why you Should Start Selling on Amazon Today?"
     }
   },
   {
-    "path": "blog_5-tips-on-how-to-increase-sales-on-amazon.html",
+    "path": "blog-5-tips-on-how-to-increase-sales-on-amazon.html",
     "context": {
       "title": "5 Tips on How to increase sales on Amazon",
       "first_heading": "5 Tips on How to increase sales on Amazon"
     }
   },
   {
-    "path": "blog_are-you-still-wondering-why-amazon-suspends--your-seller-accounts-.html",
+    "path": "blog-are-you-still-wondering-why-amazon-suspends-your-seller-accounts.html",
     "context": {
       "title": "Are you still wondering Why Amazon Suspends your seller accounts?",
       "first_heading": "Are you still wondering Why Amazon Suspends your seller accounts?"
     }
   },
   {
-    "path": "blog_how-to-do-apparel-photography-for-selling-on-amazon-.html",
+    "path": "blog-find-out-why-great-india-sale-for-diwali-2017-is-the-golden-opportunity-for-all-the-sellers.html",
+    "context": {
+      "title": "Find out Why Great India sale for Diwali 2017 is the Golden Opportunity for all the Sellers ?",
+      "first_heading": "Find out Why Great India sale for Diwali 2017 is the Golden Opportunity for all the Sellers ?"
+    }
+  },
+  {
+    "path": "blog-how-to-do-apparel-photography-for-selling-on-amazon.html",
     "context": {
       "title": "How to do Apparel Photography for selling on Amazon?",
       "first_heading": "How to do Apparel Photography for selling on Amazon?"
     }
   },
   {
-    "path": "blog_how-to-increase-page-views-on-your-online-shop-in-marketplace-.html",
+    "path": "blog-how-to-increase-page-views-on-your-online-shop-in-marketplace.html",
     "context": {
       "title": "How to increase Page Views on your online shop in marketplace?",
       "first_heading": "How to increase Page Views on your online shop in marketplace?"
     }
   },
   {
-    "path": "blog_how-to-optimize-your-amazon-sponsored-products--ppc--keywords.html",
+    "path": "blog-how-to-optimize-your-amazon-sponsored-products-ppc-keywords.html",
     "context": {
       "title": "How to Optimize Your Amazon Sponsored Products (PPC) Keywords",
       "first_heading": "How to Optimize Your Amazon Sponsored Products (PPC) Keywords"
     }
   },
   {
-    "path": "blog_how-to-remove-negative-feedback-on-your-products-on-amazon-.html",
+    "path": "blog-how-to-remove-negative-feedback-on-your-products-on-amazon.html",
     "context": {
       "title": "How to Remove Negative Feedback On your Products on Amazon?",
       "first_heading": "How to Remove Negative Feedback On your Products on Amazon?"
     }
   },
   {
-    "path": "blog_increase-your-conversions-to-increase-your-revenue.html",
+    "path": "blog-increase-your-conversions-to-increase-your-revenue.html",
     "context": {
       "title": "Increase Your Conversions To Increase Your Revenue",
       "first_heading": "Increase Your Conversions To Increase Your Revenue"
     }
   },
   {
-    "path": "blog_what-is-amazon-buy-box--how-to-win-amazon-buy-box-.html",
+    "path": "blog-what-is-amazon-buy-box-how-to-win-amazon-buy-box.html",
     "context": {
       "title": "What is Amazon Buy box? How to win Amazon Buy box?",
       "first_heading": "What is Amazon Buy box? How to win Amazon Buy box?"
     }
   },
   {
-    "path": "blog_what-to-do-when-you-receive-a-damaged-product-from-buyer-in-case-of-easy-ship-on-amazon--.html",
+    "path": "blog-what-to-do-when-you-receive-a-damaged-product-from-buyer-in-case-of-easy-ship-on-amazon.html",
     "context": {
       "title": "What to do when you receive a damaged product from buyer in case of easy ship on Amazon?",
       "first_heading": "What to do when you receive a damaged product from buyer in case of easy ship on Amazon?"
@@ -1265,7 +1265,7 @@ Files and context:
     }
   },
   {
-    "path": "product_AmazonStarterTraining.html",
+    "path": "product-amazonstartertraining.html",
     "context": {
       "title": "Amazon Seller Training In Jaipur",
       "first_heading": "Amazon Starter Training"
